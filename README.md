@@ -3,7 +3,7 @@ Edited Version Of qb-input
 
 # Preview
 
-(https://youtu.be/VEpnwaYZaRo)
+(https://youtu.be/uveuk-wsLDI)
 
 # Installation
 
