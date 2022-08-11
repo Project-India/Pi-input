@@ -13,4 +13,4 @@ And Also Most Important Rename Pi-input to qb-input else some Scripts That Uses 
 # Support
 
 For Support Join Our Discord :-
-https://discord.gg/y2h3NNxydu
+https://discord.gg/Kd5B3KPnTv
